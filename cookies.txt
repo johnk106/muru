@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.owebest.com	TRUE	/	FALSE	1999999999	CAKEPHP	a7rgj2fdm85ch7dq0govasokeu
+www.owebest.com	TRUE	/	FALSE	1999999999	owebest_cookie	owebest
+www.owebest.com	TRUE	/	FALSE	1999999999	csrfToken	6e2192a72b02787b907f4954a0838255e198fffbaf682a26d216737c86616cf685a002d7a3f111805214761f681db4f64a325c1b45c44cab1483bec2a94331d5
+

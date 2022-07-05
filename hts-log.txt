@@ -1,0 +1,64 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jun 2022 10:50:16 at https://www.owebest.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.owebest.com/ -O1 "C:\My Web Sites\muru tech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:53:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.owebest.com/)
+11:25:32	Warning: 	Link https://www.owebest.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:27:21	Error: 	"Not Found" (404) at link https://www.owebest.com/css/owl.video.play.png (from https://www.owebest.com/css/plugin.min.css?v=2.13)
+11:28:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://assets.owebest.com/js/plugin.js?v=2.131655279446 (from https://www.owebest.com/blog)
+11:28:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://assets.owebest.com/files/Banners/bg_img/21428e966371bd8b768bf812cb03f692/career_banner.jpg (from https://www.owebest.com/career)
+11:30:42	Error: 	"Not Found" (404) at link https://assets.owebest.com/img/blockchain-company/bitcoin.png (from https://www.owebest.com/blockchain-development)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/web-design-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Mobile-Apps-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Custom-Software-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/ERP-Software-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Digital-Marketing-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/project-management-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/saas-app-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Hire-Developer-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/on-demand-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/artificial-intelligence-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Iot-Development-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/CRM-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Enterprise-Solution-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Support-Maintenance-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/Cloud-Computing-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/our-services/img/services/penetration-testing-new.jpg (from https://www.owebest.com/our-services/)
+11:33:07	Error: 	"Not Found" (404) at link https://www.owebest.com/mobile-app-development/ios-app-development (from https://www.owebest.com/mobile-app-development/)
+11:33:12	Warning: 	Found for https://www.owebest.com/blogs/view/hire-a-python-developer-when-and-why-would-you-need-one/
+11:33:12	Warning: 	File has moved from https://www.owebest.com/blogs/view/hire-a-python-developer-when-and-why-would-you-need-one/ to http://www.owebest.com/blog
+11:33:23	Error: 	"Not Found" (404) at link https://www.owebest.com/https//www.ideamotive.co/blog/the-state-of-php-development (from https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022)
+11:33:23	Error: 	"Not Found" (404) at link https://www.owebest.com/https//www.owebest.com/Hire-PHP-Developer (from https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022)
+11:33:37	Warning: 	Retry after error 502 () at link https://assets.owebest.com/js/plugin.js?v=2.131655279446 (from https://www.owebest.com/blog)
+11:33:37	Warning: 	Retry after error 502 () at link https://assets.owebest.com/files/Banners/bg_img/21428e966371bd8b768bf812cb03f692/career_banner.jpg (from https://www.owebest.com/career)
+11:33:49	Error: 	"Not Found" (404) at link https://assets.owebest.com/img/vimeo-play.png (from https://assets.owebest.com/css/lightgallery.css)
+11:33:49	Error: 	"Not Found" (404) at link https://assets.owebest.com/img/video-play.png (from https://assets.owebest.com/css/lightgallery.css)
+11:33:49	Error: 	"Not Found" (404) at link https://assets.owebest.com/img/youtube-play.png (from https://assets.owebest.com/css/lightgallery.css)
+11:33:49	Error: 	"Not Found" (404) at link https://assets.owebest.com/img/loading.gif (from https://assets.owebest.com/css/lightgallery.css)
+11:33:49	Error: 	"Not Found" (404) at link https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022/https//www.ideamotive.co/blog/the-state-of-php-development (from https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022/)
+11:33:49	Error: 	"Not Found" (404) at link https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022/https//www.owebest.com/Hire-PHP-Developer (from https://www.owebest.com/how-to-hire-the-best-dedicated-php-developers-in-2022/)
+11:33:53	Error: 	"" (502) after 2 retries at link https://assets.owebest.com/js/plugin.js?v=2.131655279446 (from https://www.owebest.com/blog)
+11:33:53	Error: 	"" (502) after 2 retries at link https://assets.owebest.com/files/Banners/bg_img/21428e966371bd8b768bf812cb03f692/career_banner.jpg (from https://www.owebest.com/career)
+11:43:50	Warning: 	Found for https://www.owebest.com/blogs/view/best-paypal-alternatives-for-your-business-which-can-be-a-game-changer-in-2021/
+11:43:50	Warning: 	File has moved from https://www.owebest.com/blogs/view/best-paypal-alternatives-for-your-business-which-can-be-a-game-changer-in-2021/ to http://www.owebest.com/blog
+11:44:14	Warning: 	Retry after error 502 (Bad Gateway) at link https://assets.owebest.com/js/plugin.js?v=2.131655282414 (from https://www.owebest.com/how-to-hire-experienced-python-developers)
+11:44:14	Warning: 	Retry after error 502 (Bad Gateway) at link https://assets.owebest.com/files/Blogs/bg_img/6f00a4e85de1f1650be506876a5d6d87/blog-banner.jpg (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+11:44:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://assets.owebest.com/js/plugin.js?v=2.131655282420 (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+11:44:23	Warning: 	Moved Permanently for https://www.owebest.com/magento/
+11:44:23	Warning: 	File has moved from https://www.owebest.com/magento/ to https://www.owebest.com/magento-development
+11:44:23	Warning: 	Moved Permanently for https://www.owebest.com/wordpress/
+11:44:23	Warning: 	File has moved from https://www.owebest.com/wordpress/ to https://www.owebest.com/wordpress-development
+11:44:23	Warning: 	Moved Permanently for https://www.owebest.com/joomla/
+11:44:23	Warning: 	File has moved from https://www.owebest.com/joomla/ to https://www.owebest.com/joomla-development
+11:46:38	Warning: 	Retry after error 502 () at link https://assets.owebest.com/files/Blogs/bg_img/6f00a4e85de1f1650be506876a5d6d87/blog-banner.jpg (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+11:46:47	Warning: 	Retry after error 502 () at link https://assets.owebest.com/js/plugin.js?v=2.131655282420 (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+11:46:47	Error: 	"Not Found" (404) at link https://www.owebest.com/joomla-development (from https://www.owebest.com/joomla/)
+11:49:31	Error: 	"" (502) after 2 retries at link https://assets.owebest.com/files/Blogs/bg_img/6f00a4e85de1f1650be506876a5d6d87/blog-banner.jpg (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+11:49:40	Error: 	"" (502) after 2 retries at link https://assets.owebest.com/js/plugin.js?v=2.131655282420 (from https://www.owebest.com/top-10-website-development-trends-that-will-rock-in-2021)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 8 minutes 51 seconds : 3169 links scanned, 3121 files written (648294708 bytes overall) [283531800 bytes received at 68635 bytes/sec], 474863746 bytes transferred using HTTP compression in 1226 files, ratio 22%, 12.7 requests per connection
+(33 errors, 20 warnings, 0 messages)
